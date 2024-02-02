@@ -21,4 +21,3 @@ resource "aws_instance" "app_server" {
     Name = "Terraform_Demo"
   }
 }
-
